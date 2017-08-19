@@ -1,2 +1,3 @@
 # hello-word
-just another repositorty
+
+Hi humans
